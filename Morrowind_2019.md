@@ -165,7 +165,7 @@ mlox is the Morrowind equivalent of LOOT or BOSS, and it needs to go into its ow
 
 mlox is currently highly out of date, even using version 0.62. It suggests the Morrowind Patch Project (despite those links no longer working) and has other outdated information. However, it does form a good baseline and has some information still relevant you can at least look into if it warns you.
 
-9. Install [Wrye Mash - Polemos' Fork](https://www.nexusmods.com/morrowind/mods/45439/)
+8. Install [Wrye Mash - Polemos' Fork](https://www.nexusmods.com/morrowind/mods/45439/)
 
 This is a powerful tool that will allow us to handle conflict resolution, cleaning saves, updating masters and otherwise.
 
@@ -177,7 +177,7 @@ NOTE: YOU MUST RUN WRYE ONCE MANUALLY BEFORE RUNNING IT INSIDE MO2.
 
 An installer will pop up. Point it to Morrowind's folder and Mlox if you like, and the "Mod Archives" can just be any random folder, doesn't matter which one. It'll be ignored later anyways.
 
-10. Download [TES3CMD](https://github.com/john-moonsugar/tes3cmd/releases)
+9. Download [TES3CMD](https://github.com/john-moonsugar/tes3cmd/releases)
 
 This is a powerful command-line tool that allows you to determine which mods need cleaning and clean them, reducing crashes, broken mods and otherwise.
 
@@ -185,7 +185,7 @@ HOWEVER: DO NOT ATTEMPT TO JUST CLEAN YOUR ENTIRE LOAD ORDER! Some mods *will* b
 
 Install it by putting it in the `Data Files` folder.
 
-8. Download [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
+10. Download [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 (The latest dev versions can be found on the MO2 Discord, but as of writing this, 2.1.5 is perfectly fine for Morrowind use)
 
 Extract it so that the `Mod Organizer 2 (Archive)` folder is inside your Morrowind installation folder.
